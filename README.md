@@ -23,4 +23,4 @@ The **To-Do List Manager** is a simple command-line interface (CLI) application 
    python todo_list_manager.py
 
    Author
-   zayn zahir
+   Mustapha Ahmed Chakour
